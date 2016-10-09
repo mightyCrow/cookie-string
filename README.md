@@ -1,4 +1,4 @@
-# cookie-string [![Build Status](https://travis-ci.org/mightyCrow/cookie-string.svg?branch=master)](https://travis-ci.org/mightyCrow/cookie-string)
+# cookie-string [![Build Status](https://travis-ci.org/mightyCrow/cookie-string.svg?branch=master)](https://travis-ci.org/mightyCrow/cookie-string) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![npm version](https://badge.fury.io/js/cookie-string.svg)](https://badge.fury.io/js/cookie-string) [![GitHub version](https://badge.fury.io/gh/mightyCrow%2Fcookie-string.svg)](https://badge.fury.io/gh/mightyCrow%2Fcookie-string)
 
 Converts given key, value and options(path, domain, maxAge, expires and secure) into a string that can be used for client-side cookie storage.
 
