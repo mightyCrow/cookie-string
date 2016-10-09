@@ -1,0 +1,30 @@
+{
+  "name": "cookie-string",
+  "version": "1.0.0",
+  "description": "Converts given key, value and options into a string that can be used for client-side cookie storage",
+  "license": "MIT",
+  "repository": "mightyCrow/cookie-string",
+  "author": {
+    "name": "Tiaan du Plessis",
+    "email": "tiaanduplessis@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mightyCrow/cookie-string"
+  },
+  "scripts": {
+    "test": "xo --fix; ava --verbose"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "cookie-string",
+    "cookie",
+    "string"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
