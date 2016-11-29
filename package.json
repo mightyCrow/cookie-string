@@ -24,7 +24,7 @@
     "string"
   ],
   "devDependencies": {
-    "ava": "*",
+    "ava": ">=0.17.0",
     "xo": "*"
   }
 }
